@@ -1,0 +1,126 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.container{
+       height: 100%;
+       width: 100vw;
+       overflow-x: none;
+       background-color: #e2e5e8;
+}
+.navContainer{
+      width: 100vw;
+      background-color: #0093E9;
+      background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+      height: 10vh;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      position: relative;
+}
+nav{
+    width: 100%;
+}
+#navtext{
+    font-size: 2.5rem;
+    font-family : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:  whitesmoke;
+}
+a
+{
+     color: whitesmoke;
+     text-decoration: none;
+}
+#Navlist
+{
+    list-style: none;
+    font-size: 2.5rem;
+    display: flex;
+    justify-content: space-around;
+    width: 100%;
+    padding: 15px;
+}
+#navItems
+{
+    display: flex;
+    gap: 4rem;
+}
+.footerBox
+{
+    background-color: #0093E9;
+    background-image: linear-gradient(160deg, #0093E9 0%, #80D0C7 100%);
+    width: 100%;
+    min-height: 2.5rem;
+    /* position: fixed;
+    top : 94.5vh; */
+    text-align: center;
+}
+#footertext
+{
+    color: #e2e5e8;
+    font-size: 2rem;
+}
+.contentBox
+{
+    width: 70%;
+    margin: auto;
+    box-shadow: 0px 0px 30px black;
+    background-color: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    gap : 40px;
+    padding: 20px;
+}
+#list
+{
+    display: flex;
+    justify-content: space-evenly;   
+    align-items: center;
+}
+.leftbox
+{
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+}
+.rightbox
+{
+    display: flex;
+    flex-direction: column;
+    gap: 90px;
+    transition: all 1.6s ease-in-out 0s;
+}
+#KajuKatli
+{
+    width: 250px;
+    height: 300px;
+    border-radius: 2.5rem;
+}
+#gulabJamun
+{
+    width: 250px;
+    height: 300px;
+    border-radius: 2.5rem;
+}
+.rightbox img:hover{
+    transition: all 1.6s ease-in-out 0s;
+     transform: scale(1.1);
+}
+.Item
+{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    font-family : Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.leftbox li{
+    font-size: 1.2rem;
+}
+h3{
+    font-size: 1.8rem;
+}
+h2
+{
+    font-size: 2.5rem;
+}
