@@ -1,0 +1,84 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+body{
+    height: 100vh;
+    background-color: #292828;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.card
+{
+    width: 350px;
+    max-height: 750px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 34px;
+    gap: 12px;
+    border-radius: 12px;
+}
+#qrtext
+{
+    height: 34px;
+    border: 1px solid #494eea;
+    outline: 0;
+    border-radius: 6px;
+    padding: 10px;
+}
+button
+{
+    color: white;
+    background-color: blue;
+    cursor: pointer;
+    border: none;
+    height: 34px;
+    border-radius: 8px;
+    box-shadow: 0 10px 10px rgba(0, 0, 0, 0.1);
+}
+#imgBox
+{
+    width: 200px;
+    max-height: 0;
+    overflow: hidden;
+    border-radius: 5px;
+    transition: max-height 1s ease-out;
+}
+#imgBox img{
+    width: 100%;
+    padding: 10px;
+}
+#imgBox.showImg
+{
+    max-height: 300px;
+    margin: 10px auto;
+    border: 1px solid #d1d1dd;
+    padding: 5px;
+}
+.error
+{
+    animation: shake 0.1s linear 10;
+}
+@keyframes shake {
+    0%{
+        transform: translateX(0);
+    }
+    25%{
+        transform: translateX(-2px);
+    }
+    50%{
+        transform: translateX(0);
+    }
+    70%{
+        transform: translateX(2px);
+    }
+    100%{
+        transform: translateX(0);
+    }
+}
