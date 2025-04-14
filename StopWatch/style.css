@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0px;
+    box-sizing: border-box;
+    color: #fff;
+}
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime:ital,wght@0,400;0,700;1,400;1,700&family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Varela+Round&display=swap');
+body
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #edeaff;
+    font-family: "Josefin Sans", sans-serif;
+}
+.stopwatch{
+    width: 550px;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    background-image: 
+    linear-gradient(rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.8)),
+    url('Images/background.png');
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.8);
+}
+.controls
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.controls img
+{
+    width: 50px;
+    cursor: pointer;
+    margin: 0px 20px;
+}
+.controls :nth-child(2)
+{
+   width: 80px;
+}
+.stopwatch h1
+{
+    font-size: 54px;
+    margin-top: 22px;
+    font-weight:300;
+}
