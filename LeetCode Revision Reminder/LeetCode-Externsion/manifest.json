@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "Leetcode Bookmark Reminder",
+    "version": "1.0",
+    "description": "Bookmark LeetCode problems and get reminded to revisit them.",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icon.png"
+    },
+    "background":
+    {
+        "service_worker": "background.js"
+    },
+    "permissions": ["notifications", "storage", "alarms"],
+    "icons":{
+        "128": "icon.png"
+    }
+}

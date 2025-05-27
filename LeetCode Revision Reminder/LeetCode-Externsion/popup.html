@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Leetcode Bookmark Reminder</title>
+</head>
+<style>
+    body{
+        font-family: Arial, sans-serif;
+        width: 300px;
+        padding: 10px;
+        padding-right: 22px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    #savebtn
+    {
+        padding: 8px 12px;
+        margin-top: 12px;
+        background-color: #FF6600;
+        color: white;
+        border-radius: 8px;
+        border: none;
+        cursor: pointer;
+        width: 100px;
+    }
+    #savebtn:hover {
+     background-color: #e65500;
+    }
+    #message
+    {
+        font-size: 18px;
+    }
+</style>
+<body>
+    <h2>Leetcode Bookmark Reminder</h2>
+    <input type="url" id="problemUrl" placeholder="Enter the problem url" style="width: 100%; padding: 6px;">
+    <button id="savebtn">Bookmark</button>
+    <p id="message" style="color: green"></p>
+
+    <script src="popup.js"></script>
+</body>
+</html>
