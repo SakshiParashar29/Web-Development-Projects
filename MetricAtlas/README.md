@@ -1,8 +1,9 @@
 # [MetricAtlas]
 *Submitted by: [Sakshi]*
 
-## 🌟 Live Demo
-🔗 **[View Live Demo]('https://web-development-projects-2jis.vercel.app/')**
+## 🌟 Live Demo  
+🔗 **[View Live Demo](https://web-development-projects-2jis.vercel.app/)**
+
 
 ## 📸 Screenshots
 ![Dashboard Overview](./demo-images/dashboard-overview.png)
