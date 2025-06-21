@@ -12,13 +12,12 @@
 ![Metric](./DemoImages/Metric.jpg.jpeg)
 
 ## 🛠️ Tech Stack
-- Frontend: [e.g., React, Vue.js, Angular]
-- Backend: [if applicable]
-- Database: [if used]
-- Visualization: [e.g., D3.js, Chart.js, Plotly]
-- Deployment: [e.g., Vercel, Netlify, Heroku]
-
+- Frontend: [React, TailwindCss]
+- Visualization: [Recharts]
+- Deployment: [Vercel]
+  
 ## ✨ Unique Features
-- **[Feature 1]**: Brief description of what makes it special
-- **[Feature 2]**: How it enhances user experience
-- **[Feature 3]**: Technical innovation implemented
+- **Dynamic Country & Category Selection**: Users can interactively choose countries and development categories to view tailored comparisons.
+- **Clean, Responsive UI**: A modern and intuitive interface ensures smooth navigation across devices, improving user engagement and accessibility.
+- **Real-Time Data Visualization**: Utilizes Recharts for interactive and responsive bar charts, enabling clear insights through visual data comparisons.
+
