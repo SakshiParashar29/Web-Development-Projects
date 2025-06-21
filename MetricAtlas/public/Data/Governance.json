@@ -1,0 +1,12 @@
+[
+  { "country": "Singapore", "value": 2.35 },
+  { "country": "Switzerland", "value": 2.22 },
+  { "country": "Finland", "value": 2.19 },
+  { "country": "Denmark", "value": 2.17 },
+  { "country": "Norway", "value": 2.12 },
+  { "country": "Netherlands", "value": 2.10 },
+  { "country": "Germany", "value": 2.08 },
+  { "country": "Sweden", "value": 2.06 },
+  { "country": "New Zealand", "value": 2.03 },
+  { "country": "Canada", "value": 2.01 }
+]

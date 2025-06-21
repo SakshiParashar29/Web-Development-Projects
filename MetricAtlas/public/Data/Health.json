@@ -1,0 +1,12 @@
+[
+  { "country": "Japan", "value": 84.8 },
+  { "country": "Switzerland", "value": 84.4 },
+  { "country": "Singapore", "value": 84.2 },
+  { "country": "Spain", "value": 84.0 },
+  { "country": "Italy", "value": 83.6 },
+  { "country": "Australia", "value": 83.5 },
+  { "country": "Iceland", "value": 83.4 },
+  { "country": "South Korea", "value": 83.3 },
+  { "country": "Norway", "value": 83.1 },
+  { "country": "Sweden", "value": 83.0 }
+]

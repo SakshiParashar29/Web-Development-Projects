@@ -1,0 +1,12 @@
+[
+  { "country": "United States", "value": 28.78 },
+  { "country": "China", "value": 19.41 },
+  { "country": "Germany", "value": 5.21 },
+  { "country": "Japan", "value": 4.47 },
+  { "country": "India", "value": 4.25 },
+  { "country": "United Kingdom", "value": 3.82 },
+  { "country": "France", "value": 3.71 },
+  { "country": "Italy", "value": 2.66 },
+  { "country": "Canada", "value": 2.60 },
+  { "country": "South Korea", "value": 2.36 }
+]

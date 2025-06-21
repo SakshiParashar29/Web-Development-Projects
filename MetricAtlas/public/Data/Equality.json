@@ -1,0 +1,62 @@
+[
+  {
+    "country": "Denmark",
+    "povertyRate": 0.2,
+    "gini": 28.0,
+    "bottom40IncomeShare": 22.5
+  },
+  {
+    "country": "Norway",
+    "povertyRate": 0.2,
+    "gini": 27.6,
+    "bottom40IncomeShare": 23.0
+  },
+  {
+    "country": "Sweden",
+    "povertyRate": 0.3,
+    "gini": 28.5,
+    "bottom40IncomeShare": 22.1
+  },
+  {
+    "country": "Finland",
+    "povertyRate": 0.4,
+    "gini": 27.9,
+    "bottom40IncomeShare": 22.7
+  },
+  {
+    "country": "Germany",
+    "povertyRate": 0.5,
+    "gini": 30.1,
+    "bottom40IncomeShare": 21.3
+  },
+  {
+    "country": "Netherlands",
+    "povertyRate": 0.6,
+    "gini": 29.4,
+    "bottom40IncomeShare": 21.7
+  },
+  {
+    "country": "Australia",
+    "povertyRate": 0.7,
+    "gini": 32.5,
+    "bottom40IncomeShare": 20.5
+  },
+  {
+    "country": "Canada",
+    "povertyRate": 0.8,
+    "gini": 32.1,
+    "bottom40IncomeShare": 20.8
+  },
+  {
+    "country": "France",
+    "povertyRate": 1.0,
+    "gini": 29.2,
+    "bottom40IncomeShare": 21.0
+  },
+  {
+    "country": "Switzerland",
+    "povertyRate": 0.1,
+    "gini": 33.0,
+    "bottom40IncomeShare": 19.8
+  }
+]
