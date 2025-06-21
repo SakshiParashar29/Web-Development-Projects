@@ -6,9 +6,10 @@
 
 
 ## 📸 Screenshots
-![Dashboard Overview](./demo-images/dashboard-overview.png)
-![Cities Comparison](./demo-images/cities-comparison.png)
-![Mobile View](./demo-images/mobile-view.png)
+![Dashboard Overview](./DemoImages/Homepage.jpg.jpeg)
+![Categories](./DemoImages/Category.jpg.jpeg)
+![Cities Comparison](./DemoImages/Compare.jpg.jpeg)
+![Metric](./DemoImages/Metric.jpg.jpeg)
 
 ## 🛠️ Tech Stack
 - Frontend: [e.g., React, Vue.js, Angular]
