@@ -1,12 +1,22 @@
-# React + Vite
+# [MetricAtlas]
+*Submitted by: [Sakshi]*
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 🌟 Live Demo
+🔗 **[View Live Demo]((https://web-development-projects-2jis.vercel.app/))**
 
-Currently, two official plugins are available:
+## 📸 Screenshots
+![Dashboard Overview](./demo-images/dashboard-overview.png)
+![Cities Comparison](./demo-images/cities-comparison.png)
+![Mobile View](./demo-images/mobile-view.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠️ Tech Stack
+- Frontend: [e.g., React, Vue.js, Angular]
+- Backend: [if applicable]
+- Database: [if used]
+- Visualization: [e.g., D3.js, Chart.js, Plotly]
+- Deployment: [e.g., Vercel, Netlify, Heroku]
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Unique Features
+- **[Feature 1]**: Brief description of what makes it special
+- **[Feature 2]**: How it enhances user experience
+- **[Feature 3]**: Technical innovation implemented
