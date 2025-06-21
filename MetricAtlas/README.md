@@ -7,7 +7,7 @@
 
 ## 📸 Screenshots
 ![Dashboard Overview](./DemoImages/Homepage.jpg.jpeg)
-![Categories](./DemoImages/Category.jpg.jpeg)
+![Categories](./DemoImages/Category.jpeg)
 ![Cities Comparison](./DemoImages/Compare.jpg.jpeg)
 ![Metric](./DemoImages/Metric.jpg.jpeg)
 
