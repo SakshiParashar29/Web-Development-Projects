@@ -1,0 +1,12 @@
+@keyframes shrinkLine {
+  0% {
+    width: 100%;
+  }
+  100% {
+    width: 0%;
+  }
+}
+
+.shrink-line {
+  animation: shrinkLine 2.5s linear forwards;
+}
